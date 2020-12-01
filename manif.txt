@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: ElenaTrifonova
+Package-Name: Lab3_pr/help2/programm
+Main-Class: Main
+Class-Path: Lab3_pr/help2/programm/src
