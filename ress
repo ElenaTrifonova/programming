@@ -1,0 +1,132 @@
+Day of week: wednesday
+Information about members:
+Dima 18 male student
+
+Information about members:
+Victor 35 male leader
+
+Information about members:
+Sergey Vasilevich 27 male professor
+
+Information about members:
+Ivan 25 male scientist
+
+Time since entering the tunnel:0 milliseconds.
+
+Width of tunnel: 6 Height of tunnel: 5
+
+Temperature is cool.
+-Go strictly straight!, - said Victor.
+-What a pungent smell! - mentioned professor.
+
+Dima ran into side gallery.
+It is gold side gallery.
+-There is no smell here!, - shouted  Dima.
+-Come to me immediately!, - exclaimed  professor.
+
+Time since entering the tunnel:53 milliseconds.
+
+Temperature has slighty increased.
+-Turn left, - said  Victor.
+
+Width of tunnel: 6 Height of tunnel: 4
+
+Clothes became warmer.
+A few penguins are running by people. Sum: 3
+
+Information about penguins:
+number1 adult male pink
+
+Information about penguins:
+number2 adult male green
+
+Information about penguins:
+number3 adult male yellow
+
+-Penguins! - exclaimed scientist and ran after them.
+
+Penguin number 1 touched a stone wall.
+The wall collapsed, the way back is blocked.
+
+Time since entering the tunnel:76 milliseconds.
+
+Grinding was heard.
+Sound was a very loud.
+-Hurry up! Don't turh anywhere, - said Victor.
+
+Width of tunnel: 6 Height of tunnel: 3
+
+-Pungent smell intensified, - said Sergey Vasilevich.
+
+Dima ran into side gallery.
+It is just stone side gallery.
+- There is also a terrible smell!, - shouted student.
+
+-Come to me immediately!, - exclaimed  professor.
+
+Time since entering the tunnel:90 milliseconds.
+
+There have been some change in the enviroment.
+Temperature has slighty increased.
+Leader threw of his coat.
+Clothes are wrinkled.
+Information about clothes:
+fur coat
+
+Clothes are wrinkled.
+Hitting the ground was heard.
+Sound was quiet.
+Gnomes are in the brilliant gallery at the same time.
+Information about gnomes:
+Grumbler 36
+
+Information about gnomes:
+Sleepy 35
+
+Information about gnomes:
+Worker 34
+
+- Don't stop working!!! – screamed Worker.
+
+He hit the wall with a pick. Brilliants fell.
+- Let me sleep... - said Sleepy.
+
+And he continued to sleep
+- I could now rest in the Maldives instead of that! - whispered Grumbler.
+
+He looked around the gallery hopelessly.
+
+
+People in the tunnel.
+
+
+Abandoned sweaters are lying on the ground.
+Crumpled coats are next to them.
+The sweaters have slits.
+Coats have them too.
+Check that it is ruined coat on the ground with equals(if false then things are not the same):
+false
+Only one little penguin is running by people.
+
+
+Information about penguins:
+number1 baby female pink
+
+-Penguins! - exclaimed scientist and ran after them.
+
+Penguin number 1 hid.
+Time is running
+
+Time since entering the tunnel:138 milliseconds.
+
+-Turn right, - ordered Victor.
+
+Width of tunnel: 5 Height of tunnel: 1
+
+The expedition members suddenly saw the gnomes.
+
+-They have picks!!!!!!, - screamed loudly Sergey Vasilevich.
+
+People ran fast to the nearest underground.
+Information about underground:
+class locs.Underground width: 1 meters   height: 1 meters
